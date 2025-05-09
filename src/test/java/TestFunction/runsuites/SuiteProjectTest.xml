@@ -1,0 +1,36 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" verbose="1">
+
+    <listeners>
+        <listener class-name="org.example.listeners.ReportListener"></listener>
+    </listeners>
+
+    <test name="Test">
+        <classes>
+<!--                        <class name="TestFunction.Register">-->
+<!--                        </class>-->
+
+<!--                        <class name="TestFunction.Login">-->
+<!--                        </class>-->
+
+<!--                        <class name="TestFunction.Logout">-->
+<!--                        </class>-->
+            <!--            -->
+<!--                        <class name="TestFunction.Search">-->
+<!--                        </class>-->
+            <!--            -->
+<!--                        <class name="TestFunction.ViewProductDetail">-->
+<!--                        </class>-->
+
+<!--                        <class name="TestFunction.CartManagement">-->
+<!--                        </class>-->
+            <!--            -->
+<!--                        <class name="TestFunction.ViewDetailAccountDetail">-->
+<!--                        </class>-->
+            <!--            -->
+            <class name="TestFunction.ChangePassword">
+            </class>
+        </classes>
+    </test>
+</suite>

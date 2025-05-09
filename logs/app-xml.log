@@ -1,0 +1,352 @@
+[INFO ] 24-04-2025 02:49:28 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 02:51:25 [main] LogUtils - Đây là test case bị bỏ qua: changePasswordSuccess
+[INFO ] 24-04-2025 02:51:25 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 02:56:07 [main] LogUtils - Đây là đoạn khởi động automation test
+[ERROR] 24-04-2025 02:56:55 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[INFO ] 24-04-2025 02:56:56 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 02:59:38 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 02:59:46 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 03:00:00 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[INFO ] 24-04-2025 03:00:01 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 03:09:57 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 03:10:23 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 03:10:37 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[INFO ] 24-04-2025 03:10:38 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:02:47 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:02:47 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:03:08 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:03:08 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:03:16 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:03:16 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:03:43 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:03:43 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:03:49 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:03:49 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:04:23 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:04:31 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 04:04:46 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[INFO ] 24-04-2025 04:04:47 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:05:35 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:11:24 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:17:56 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:19:27 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:20:43 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:20:56 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:24:04 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:24:13 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 04:24:28 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[INFO ] 24-04-2025 04:24:29 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:24:52 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:25:03 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:26:57 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:29:30 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:32:22 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:32:30 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 24-04-2025 04:32:44 [main] LogUtils - changePasswordSuccess test is failed.
+[ERROR] 24-04-2025 04:32:44 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:32:44 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:33:56 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:34:04 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 24-04-2025 04:34:19 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:34:19 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:37:15 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:37:23 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 24-04-2025 04:37:39 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:37:39 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:39:07 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:39:07 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:39:09 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 24-04-2025 04:39:10 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 04:39:15 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[ERROR] 24-04-2025 04:39:16 [main] LogUtils - changePasswordSuccess test is failed.
+[ERROR] 24-04-2025 04:39:16 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[ERROR] 24-04-2025 04:39:16 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:39:16 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:39:16 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:43:10 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:43:17 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 24-04-2025 04:43:23 [main] LogUtils - changePasswordSuccess test is failed.
+[ERROR] 24-04-2025 04:43:23 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:43:23 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:48:32 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:48:32 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:48:36 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 24-04-2025 04:48:36 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 04:48:50 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[ERROR] 24-04-2025 04:48:51 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:48:51 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:48:52 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:49:21 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:49:21 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:49:26 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 24-04-2025 04:49:27 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[ERROR] 24-04-2025 04:49:41 [main] LogUtils - Đây là test case bị fail: changePasswordSuccess
+[ERROR] 24-04-2025 04:49:42 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 24-04-2025 04:49:42 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:49:42 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 04:51:58 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 24-04-2025 04:52:06 [main] LogUtils - Bắt đầu chạy test case: viewCartHasNoProduct
+[ERROR] 24-04-2025 04:52:21 [main] LogUtils - Đây là test case bị fail: viewCartHasNoProduct
+[INFO ] 24-04-2025 04:52:40 [main] LogUtils - Bắt đầu chạy test case: addNewProductToCart
+[ERROR] 24-04-2025 04:52:53 [main] LogUtils - Đây là test case bị fail: addNewProductToCart
+[INFO ] 24-04-2025 04:52:55 [main] LogUtils - Bắt đầu chạy test case: ViewCartHasProduct
+[ERROR] 24-04-2025 04:53:08 [main] LogUtils - Đây là test case bị fail: ViewCartHasProduct
+[INFO ] 24-04-2025 04:53:10 [main] LogUtils - Bắt đầu chạy test case: removeProduct
+[ERROR] 24-04-2025 04:53:23 [main] LogUtils - Đây là test case bị fail: removeProduct
+[INFO ] 24-04-2025 04:53:23 [main] LogUtils - Kết thúc automation test
+[INFO ] 24-04-2025 04:54:20 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 04:54:27 [main] LogUtils - loginByUser test is starting...
+[ERROR] 24-04-2025 04:54:41 [main] LogUtils - loginByUser test is failed.
+[INFO ] 24-04-2025 04:55:30 [main] LogUtils - loginWrongEmail test is starting...
+[ERROR] 24-04-2025 04:55:44 [main] LogUtils - loginWrongEmail test is failed.
+[INFO ] 24-04-2025 04:56:42 [main] LogUtils - loginWrongPassword test is starting...
+[ERROR] 24-04-2025 04:56:55 [main] LogUtils - loginWrongPassword test is failed.
+[INFO ] 24-04-2025 04:57:05 [main] LogUtils - checkTextEmail test is starting...
+[ERROR] 24-04-2025 04:57:18 [main] LogUtils - checkTextEmail test is failed.
+[INFO ] 24-04-2025 04:57:43 [main] LogUtils - checkTextPassword test is starting...
+[ERROR] 24-04-2025 04:57:57 [main] LogUtils - checkTextPassword test is failed.
+[INFO ] 24-04-2025 04:57:57 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 05:09:16 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 05:09:23 [main] LogUtils - loginByUser test is starting...
+[ERROR] 24-04-2025 05:09:32 [main] LogUtils - loginByUser test is failed.
+[ERROR] 24-04-2025 05:09:32 [main] LogUtils - loginByUser test is failed.
+[INFO ] 24-04-2025 05:09:32 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 05:10:01 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 05:10:06 [main] LogUtils - loginByUser test is starting...
+[INFO ] 24-04-2025 05:10:11 [main] LogUtils - loginByUser test is passed.
+[INFO ] 24-04-2025 05:12:56 [main] LogUtils - loginWrongEmail test is starting...
+[ERROR] 24-04-2025 05:13:06 [main] LogUtils - loginWrongEmail test is failed.
+[INFO ] 24-04-2025 05:13:37 [main] LogUtils - loginWrongPassword test is starting...
+[ERROR] 24-04-2025 05:13:51 [main] LogUtils - loginWrongPassword test is failed.
+[INFO ] 24-04-2025 05:14:19 [main] LogUtils - checkTextEmail test is starting...
+[ERROR] 24-04-2025 05:14:29 [main] LogUtils - checkTextEmail test is failed.
+[ERROR] 24-04-2025 05:14:29 [main] LogUtils - checkTextEmail test is failed.
+[INFO ] 24-04-2025 05:14:29 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 05:17:50 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 05:17:55 [main] LogUtils - loginByUser test is starting...
+[INFO ] 24-04-2025 05:18:00 [main] LogUtils - loginByUser test is passed.
+[INFO ] 24-04-2025 05:18:00 [main] LogUtils - loginWrongEmail test is starting...
+[WARN ] 24-04-2025 05:18:00 [main] LogUtils - loginWrongEmail test is skipped.
+[INFO ] 24-04-2025 05:18:00 [main] LogUtils - loginWrongPassword test is starting...
+[WARN ] 24-04-2025 05:18:00 [main] LogUtils - loginWrongPassword test is skipped.
+[INFO ] 24-04-2025 05:18:00 [main] LogUtils - checkTextEmail test is starting...
+[WARN ] 24-04-2025 05:18:00 [main] LogUtils - checkTextEmail test is skipped.
+[INFO ] 24-04-2025 05:18:00 [main] LogUtils - checkTextPassword test is starting...
+[WARN ] 24-04-2025 05:18:00 [main] LogUtils - checkTextPassword test is skipped.
+[INFO ] 24-04-2025 05:18:00 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 05:19:05 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 05:19:11 [main] LogUtils - loginByUser test is starting...
+[INFO ] 24-04-2025 05:19:16 [main] LogUtils - loginByUser test is passed.
+[INFO ] 24-04-2025 05:19:16 [main] LogUtils - loginWrongEmail test is starting...
+[WARN ] 24-04-2025 05:19:16 [main] LogUtils - loginWrongEmail test is skipped.
+[INFO ] 24-04-2025 05:19:16 [main] LogUtils - loginWrongPassword test is starting...
+[WARN ] 24-04-2025 05:19:16 [main] LogUtils - loginWrongPassword test is skipped.
+[INFO ] 24-04-2025 05:19:16 [main] LogUtils - checkTextEmail test is starting...
+[WARN ] 24-04-2025 05:19:16 [main] LogUtils - checkTextEmail test is skipped.
+[INFO ] 24-04-2025 05:19:16 [main] LogUtils - checkTextPassword test is starting...
+[WARN ] 24-04-2025 05:19:16 [main] LogUtils - checkTextPassword test is skipped.
+[INFO ] 24-04-2025 05:19:16 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 05:19:28 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 05:19:33 [main] LogUtils - loginByUser test is starting...
+[INFO ] 24-04-2025 05:19:38 [main] LogUtils - loginByUser test is passed.
+[INFO ] 24-04-2025 05:19:38 [main] LogUtils - loginWrongEmail test is starting...
+[WARN ] 24-04-2025 05:19:38 [main] LogUtils - loginWrongEmail test is skipped.
+[INFO ] 24-04-2025 05:19:38 [main] LogUtils - loginWrongPassword test is starting...
+[WARN ] 24-04-2025 05:19:38 [main] LogUtils - loginWrongPassword test is skipped.
+[INFO ] 24-04-2025 05:19:38 [main] LogUtils - checkTextEmail test is starting...
+[WARN ] 24-04-2025 05:19:38 [main] LogUtils - checkTextEmail test is skipped.
+[INFO ] 24-04-2025 05:19:38 [main] LogUtils - checkTextPassword test is starting...
+[WARN ] 24-04-2025 05:19:38 [main] LogUtils - checkTextPassword test is skipped.
+[INFO ] 24-04-2025 05:19:38 [main] LogUtils - End testing Test
+[INFO ] 24-04-2025 05:28:49 [main] LogUtils - Start testing Test
+[INFO ] 24-04-2025 05:28:55 [main] LogUtils - loginByUser test is starting...
+[INFO ] 24-04-2025 05:29:00 [main] LogUtils - loginByUser test is passed.
+[INFO ] 24-04-2025 05:29:07 [main] LogUtils - loginWrongEmail test is starting...
+[INFO ] 24-04-2025 05:29:11 [main] LogUtils - loginWrongEmail test is passed.
+[INFO ] 24-04-2025 05:29:18 [main] LogUtils - loginWrongPassword test is starting...
+[INFO ] 24-04-2025 05:29:21 [main] LogUtils - loginWrongPassword test is passed.
+[INFO ] 24-04-2025 05:29:28 [main] LogUtils - checkTextEmail test is starting...
+[INFO ] 24-04-2025 05:29:29 [main] LogUtils - checkTextEmail test is passed.
+[INFO ] 24-04-2025 05:29:36 [main] LogUtils - checkTextPassword test is starting...
+[INFO ] 24-04-2025 05:29:37 [main] LogUtils - checkTextPassword test is passed.
+[INFO ] 24-04-2025 05:29:38 [main] LogUtils - End testing Test
+[INFO ] 25-04-2025 18:14:59 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 18:15:00 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 25-04-2025 18:15:00 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 25-04-2025 18:15:01 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[INFO ] 25-04-2025 18:15:01 [main] LogUtils - Đây là test case bị bỏ qua: changePasswordSuccess
+[WARN ] 25-04-2025 18:15:01 [main] LogUtils - changePasswordSuccess test is skipped.
+[INFO ] 25-04-2025 18:15:01 [main] LogUtils - Kết thúc automation test
+[INFO ] 25-04-2025 18:15:01 [main] LogUtils - End testing Test
+[INFO ] 25-04-2025 18:15:49 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 18:15:49 [main] LogUtils - Đây là đoạn khởi động automation test
+[INFO ] 25-04-2025 18:15:49 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 25-04-2025 18:15:50 [main] LogUtils - Bắt đầu chạy test case: changePasswordSuccess
+[INFO ] 25-04-2025 18:15:50 [main] LogUtils - Đây là test case bị bỏ qua: changePasswordSuccess
+[WARN ] 25-04-2025 18:15:51 [main] LogUtils - changePasswordSuccess test is skipped.
+[INFO ] 25-04-2025 18:15:51 [main] LogUtils - Kết thúc automation test
+[INFO ] 25-04-2025 18:15:51 [main] LogUtils - End testing Test
+[INFO ] 25-04-2025 18:16:16 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 18:17:17 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 25-04-2025 18:17:31 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 25-04-2025 18:17:31 [main] LogUtils - End testing Test
+[INFO ] 25-04-2025 19:35:13 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 19:35:17 [main] LogUtils - registerByGuest test is starting...
+[ERROR] 25-04-2025 19:35:38 [main] LogUtils - registerByGuest test is failed.
+[INFO ] 25-04-2025 19:35:44 [main] LogUtils - registerByExistedUser test is starting...
+[INFO ] 25-04-2025 19:36:34 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 19:36:39 [main] LogUtils - registerByGuest test is starting...
+[INFO ] 25-04-2025 19:37:01 [main] LogUtils - registerByGuest test is passed.
+[INFO ] 25-04-2025 19:37:04 [main] LogUtils - registerByExistedUser test is starting...
+[INFO ] 25-04-2025 19:37:26 [main] LogUtils - registerByExistedUser test is passed.
+[INFO ] 25-04-2025 19:37:32 [main] LogUtils - checkTextAddress test is starting...
+[INFO ] 25-04-2025 19:37:49 [main] LogUtils - checkTextAddress test is passed.
+[INFO ] 25-04-2025 19:37:54 [main] LogUtils - checkTextUsername test is starting...
+[INFO ] 25-04-2025 19:38:11 [main] LogUtils - checkTextUsername test is passed.
+[INFO ] 25-04-2025 19:38:17 [main] LogUtils - checkTextEmail test is starting...
+[INFO ] 25-04-2025 19:38:33 [main] LogUtils - checkTextEmail test is passed.
+[INFO ] 25-04-2025 19:38:38 [main] LogUtils - checkTextPassword test is starting...
+[INFO ] 25-04-2025 19:38:55 [main] LogUtils - checkTextPassword test is passed.
+[INFO ] 25-04-2025 19:38:59 [main] LogUtils - checkTextAcceptPassword test is starting...
+[INFO ] 25-04-2025 19:39:15 [main] LogUtils - checkTextAcceptPassword test is passed.
+[INFO ] 25-04-2025 19:39:20 [main] LogUtils - checkPasswordMismatch test is starting...
+[INFO ] 25-04-2025 19:39:37 [main] LogUtils - checkPasswordMismatch test is passed.
+[INFO ] 25-04-2025 19:39:43 [main] LogUtils - checkConfirmPasswordMismatch test is starting...
+[INFO ] 25-04-2025 19:39:59 [main] LogUtils - checkConfirmPasswordMismatch test is passed.
+[INFO ] 25-04-2025 19:40:00 [main] LogUtils - End testing Test
+[INFO ] 25-04-2025 19:56:28 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 19:56:33 [main] LogUtils - loginByUser test is starting...
+[INFO ] 25-04-2025 19:56:39 [main] LogUtils - loginByUser test is passed.
+[INFO ] 25-04-2025 19:56:45 [main] LogUtils - loginWrongEmail test is starting...
+[INFO ] 25-04-2025 19:56:48 [main] LogUtils - loginWrongEmail test is passed.
+[INFO ] 25-04-2025 19:56:53 [main] LogUtils - loginWrongPassword test is starting...
+[INFO ] 25-04-2025 19:56:57 [main] LogUtils - loginWrongPassword test is passed.
+[INFO ] 25-04-2025 19:57:03 [main] LogUtils - checkTextEmail test is starting...
+[INFO ] 25-04-2025 19:57:04 [main] LogUtils - checkTextEmail test is passed.
+[INFO ] 25-04-2025 19:57:09 [main] LogUtils - checkTextPassword test is starting...
+[INFO ] 25-04-2025 19:57:11 [main] LogUtils - checkTextPassword test is passed.
+[INFO ] 25-04-2025 19:57:11 [main] LogUtils - End testing Test
+[INFO ] 25-04-2025 20:05:48 [main] LogUtils - Start testing Test
+[INFO ] 25-04-2025 20:05:51 [main] LogUtils - logoutCheck test is starting...
+[INFO ] 25-04-2025 20:06:10 [main] LogUtils - logoutCheck test is passed.
+[INFO ] 25-04-2025 20:06:11 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 03:44:00 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 03:45:03 [main] LogUtils - searchWithCorrectName test is starting...
+[ERROR] 27-04-2025 03:45:18 [main] LogUtils - searchWithCorrectName test is failed.
+[ERROR] 27-04-2025 03:45:18 [main] LogUtils - searchWithCorrectName test is failed.
+[INFO ] 27-04-2025 03:45:18 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 03:45:33 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 03:46:03 [main] LogUtils - searchWithCorrectName test is starting...
+[INFO ] 27-04-2025 03:46:22 [main] LogUtils - searchWithCorrectName test is passed.
+[INFO ] 27-04-2025 03:46:50 [main] LogUtils - searchApproximatelyName test is starting...
+[INFO ] 27-04-2025 03:47:11 [main] LogUtils - searchApproximatelyName test is passed.
+[INFO ] 27-04-2025 03:47:35 [main] LogUtils - searchWithIncorrectName test is starting...
+[INFO ] 27-04-2025 03:47:51 [main] LogUtils - searchWithIncorrectName test is passed.
+[INFO ] 27-04-2025 03:47:51 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 04:06:17 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 04:06:20 [main] LogUtils - viewProductDetailNotLoggedIn test is starting...
+[INFO ] 27-04-2025 04:06:44 [main] LogUtils - viewProductDetailNotLoggedIn test is passed.
+[INFO ] 27-04-2025 04:06:49 [main] LogUtils - viewProductDetailLoggedIn test is starting...
+[INFO ] 27-04-2025 04:07:15 [main] LogUtils - viewProductDetailLoggedIn test is passed.
+[INFO ] 27-04-2025 04:07:15 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 04:14:57 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 04:15:01 [main] LogUtils - viewCartHasNoProduct test is starting...
+[ERROR] 27-04-2025 04:15:10 [main] LogUtils - viewCartHasNoProduct test is failed.
+[INFO ] 27-04-2025 04:15:16 [main] LogUtils - addNewProductToCart test is starting...
+[INFO ] 27-04-2025 04:15:51 [main] LogUtils - addNewProductToCart test is passed.
+[INFO ] 27-04-2025 04:15:56 [main] LogUtils - ViewCartHasProduct test is starting...
+[INFO ] 27-04-2025 04:16:04 [main] LogUtils - ViewCartHasProduct test is passed.
+[INFO ] 27-04-2025 04:16:09 [main] LogUtils - removeProduct test is starting...
+[INFO ] 27-04-2025 04:16:22 [main] LogUtils - removeProduct test is passed.
+[INFO ] 27-04-2025 04:16:22 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 04:31:15 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 04:31:18 [main] LogUtils - viewCartHasNoProduct test is starting...
+[INFO ] 27-04-2025 04:31:23 [main] LogUtils - viewCartHasNoProduct test is passed.
+[INFO ] 27-04-2025 04:31:30 [main] LogUtils - addNewProductToCart test is starting...
+[INFO ] 27-04-2025 04:32:07 [main] LogUtils - addNewProductToCart test is passed.
+[INFO ] 27-04-2025 04:32:12 [main] LogUtils - ViewCartHasProduct test is starting...
+[INFO ] 27-04-2025 04:32:22 [main] LogUtils - ViewCartHasProduct test is passed.
+[INFO ] 27-04-2025 04:32:26 [main] LogUtils - removeProduct test is starting...
+[INFO ] 27-04-2025 04:32:39 [main] LogUtils - removeProduct test is passed.
+[INFO ] 27-04-2025 04:32:39 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 04:48:02 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 04:48:06 [main] LogUtils - viewAccountDetailCheck test is starting...
+[INFO ] 27-04-2025 04:48:24 [main] LogUtils - viewAccountDetailCheck test is passed.
+[INFO ] 27-04-2025 04:48:25 [main] LogUtils - End testing Test
+[INFO ] 27-04-2025 04:52:22 [main] LogUtils - Start testing Test
+[INFO ] 27-04-2025 04:52:23 [main] LogUtils - viewAccountDetailCheck test is starting...
+[WARN ] 27-04-2025 04:52:23 [main] LogUtils - viewAccountDetailCheck test is skipped.
+[INFO ] 27-04-2025 04:52:23 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 21:41:30 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 21:41:36 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 08-05-2025 21:42:10 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 08-05-2025 21:42:10 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 21:45:25 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 21:45:29 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 08-05-2025 21:46:12 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 08-05-2025 21:46:13 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 21:47:38 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 21:47:42 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 08-05-2025 21:48:17 [main] LogUtils - changePasswordSuccess test is passed.
+[INFO ] 08-05-2025 21:48:17 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 21:54:16 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 21:54:23 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 08-05-2025 21:54:59 [main] LogUtils - changePasswordSuccess test is passed.
+[INFO ] 08-05-2025 21:55:00 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 22:12:38 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 22:12:43 [main] LogUtils - changePasswordwitdrongPass test is starting...
+[ERROR] 08-05-2025 22:12:57 [main] LogUtils - changePasswordwitdrongPass test is failed.
+[INFO ] 08-05-2025 22:12:58 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 22:17:29 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 22:17:35 [main] LogUtils - changePasswordwitdrongPass test is starting...
+[ERROR] 08-05-2025 22:17:49 [main] LogUtils - changePasswordwitdrongPass test is failed.
+[INFO ] 08-05-2025 22:17:49 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 22:24:30 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 22:24:35 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 08-05-2025 22:24:53 [main] LogUtils - changePasswordSuccess test is passed.
+[INFO ] 08-05-2025 22:24:54 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 22:26:56 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 22:27:02 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 08-05-2025 22:27:28 [main] LogUtils - changePasswordSuccess test is passed.
+[INFO ] 08-05-2025 22:27:39 [main] LogUtils - changePasswordwitdrongPass test is starting...
+[ERROR] 08-05-2025 22:27:55 [main] LogUtils - changePasswordwitdrongPass test is failed.
+[INFO ] 08-05-2025 22:27:55 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 22:39:37 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 22:39:41 [main] LogUtils - changePasswordSuccess test is starting...
+[ERROR] 08-05-2025 22:40:00 [main] LogUtils - changePasswordSuccess test is failed.
+[ERROR] 08-05-2025 22:40:00 [main] LogUtils - changePasswordSuccess test is failed.
+[INFO ] 08-05-2025 22:40:00 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 22:40:40 [main] LogUtils - Start testing Test
+[INFO ] 08-05-2025 22:40:43 [main] LogUtils - changePasswordSuccess test is starting...
+[INFO ] 08-05-2025 22:41:00 [main] LogUtils - changePasswordSuccess test is passed.
+[INFO ] 08-05-2025 22:41:05 [main] LogUtils - changePasswordwitdrongPass test is starting...
+[ERROR] 08-05-2025 22:41:15 [main] LogUtils - changePasswordwitdrongPass test is failed.
+[INFO ] 08-05-2025 22:41:16 [main] LogUtils - End testing Test
+[INFO ] 08-05-2025 23:35:14 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:35:23 [main] LogUtils - paymentCash test is starting...
+[ERROR] 08-05-2025 23:36:05 [main] LogUtils - paymentCash test is failed.
+[INFO ] 08-05-2025 23:36:05 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 23:37:44 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:37:48 [main] LogUtils - paymentCash test is starting...
+[INFO ] 08-05-2025 23:38:21 [main] LogUtils - paymentCash test is passed.
+[INFO ] 08-05-2025 23:38:21 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 23:47:06 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:47:10 [main] LogUtils - paymentCash test is starting...
+[ERROR] 08-05-2025 23:47:15 [main] LogUtils - paymentCash test is failed.
+[INFO ] 08-05-2025 23:47:15 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 23:47:42 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:47:45 [main] LogUtils - paymentCash test is starting...
+[ERROR] 08-05-2025 23:47:49 [main] LogUtils - paymentCash test is failed.
+[INFO ] 08-05-2025 23:47:50 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 23:48:32 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:48:35 [main] LogUtils - paymentCash test is starting...
+[INFO ] 08-05-2025 23:49:16 [main] LogUtils - paymentCash test is passed.
+[INFO ] 08-05-2025 23:49:17 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 23:54:41 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:54:45 [main] LogUtils - paymentCash test is starting...
+[ERROR] 08-05-2025 23:55:22 [main] LogUtils - paymentCash test is failed.
+[INFO ] 08-05-2025 23:55:23 [main] LogUtils - End testing DATN_LINH
+[INFO ] 08-05-2025 23:59:02 [main] LogUtils - Start testing DATN_LINH
+[INFO ] 08-05-2025 23:59:05 [main] LogUtils - paymentCash test is starting...
+[ERROR] 08-05-2025 23:59:39 [main] LogUtils - paymentCash test is failed.
+[INFO ] 08-05-2025 23:59:39 [main] LogUtils - End testing DATN_LINH
